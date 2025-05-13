@@ -1,0 +1,170 @@
+[2025-05-04 16:21:51,802] [INFO] student_management: Admin registered successfully: niteshkamath123@gmail.com
+[2025-05-04 16:28:22,025] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-04 16:37:28,900] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-04 16:44:15,807] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-04 16:46:40,658] [INFO] student_management: Teacher role created.
+[2025-05-04 16:46:41,376] [INFO] student_management: Teacher registered successfully: sanjay123@gmail.com
+[2025-05-04 16:57:40,253] [INFO] student_management: Teacher login successful: sanjay123@gmail.com
+[2025-05-04 17:09:23,394] [INFO] student_management: Teacher updated: sanjayrao123@gmail.com
+[2025-05-04 17:11:03,969] [INFO] student_management: Teacher deleted: sanjayrao123@gmail.com
+[2025-05-04 17:18:12,641] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-04 17:20:19,846] [INFO] student_management: Teacher registered successfully: gourishkamath123@gmail.com
+[2025-05-05 06:19:17,735] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-05 06:25:04,803] [INFO] student_management: Department created: Physics
+[2025-05-05 06:25:41,024] [INFO] student_management: Department created: Chemistry
+[2025-05-05 06:31:35,392] [INFO] student_management: Department created: Chemistry
+[2025-05-05 06:33:42,626] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-05 06:34:11,265] [INFO] student_management: Department created: Chemistry
+[2025-05-05 06:35:21,622] [INFO] student_management: Department created: maths
+[2025-05-05 07:38:07,479] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-05 10:34:19,572] [INFO] student_management: Teacher login successful: gourishkamath123@gmail.com
+[2025-05-05 10:42:14,353] [INFO] student_management: Student role created.
+[2025-05-05 10:42:14,628] [INFO] student_management: Student registered successfully by teacher 6: shanteshkamath123@gmail.com
+[2025-05-05 10:43:10,299] [INFO] student_management: Student login successful: shanteshkamath123@gmail.com
+[2025-05-05 10:48:02,663] [INFO] student_management: Student login successful: shanteshkamath123@gmail.com
+[2025-05-05 10:48:27,310] [WARNING] student_management: Student registration failed: Email already exists - shanteshkamath123@gmail.com
+[2025-05-05 10:53:02,901] [WARNING] student_management: Student registration failed: Email already exists - edwin123@gmail.com
+[2025-05-05 11:16:34,390] [INFO] student_management: Student login successful: shanteshkamath123@gmail.com
+[2025-05-05 12:10:17,909] [INFO] student_management: Teacher login successful: gourishkamath123@gmail.com
+[2025-05-05 12:11:39,611] [INFO] student_management: Course created by teacher 6: 101
+[2025-05-05 12:15:21,613] [INFO] student_management: Course created by teacher 6: PY201
+[2025-05-05 12:30:47,121] [INFO] student_management: Course 101 assigned to student edwin123@gmail.com by teacher 6
+[2025-05-05 12:32:31,047] [INFO] student_management: Course PY201 assigned to student edwin123@gmail.com by teacher 6
+[2025-05-05 12:42:04,340] [WARNING] student_management: Student login failed: No user found with email user@example.com
+[2025-05-05 12:42:41,651] [INFO] student_management: Student login successful: edwin123@gmail.com
+[2025-05-05 12:49:42,699] [INFO] student_management: Student login successful: edwin123@gmail.com
+[2025-05-05 12:51:20,203] [INFO] student_management: Student login successful: edwin123@gmail.com
+[2025-05-05 12:59:45,798] [WARNING] student_management: Student login failed: No user found with email user@example.com
+[2025-05-05 13:00:00,293] [INFO] student_management: Student login successful: edwin123@gmail.com
+[2025-05-05 13:04:53,330] [WARNING] student_management: Student login failed: No user found with email user@example.com
+[2025-05-05 13:04:54,082] [WARNING] student_management: Student login failed: No user found with email user@example.com
+[2025-05-05 13:17:26,455] [INFO] student_management: Teacher login successful: gourishkamath123@gmail.com
+[2025-05-05 13:23:24,471] [INFO] student_management: Course deleted by teacher 6: PY201
+[2025-05-05 15:34:54,795] [INFO] student_management: Teacher login successful: gourishkamath123@gmail.com
+[2025-05-05 15:36:40,236] [INFO] student_management: Admin login successful: niteshkamath123@gmail.com
+[2025-05-05 15:44:06,668] [INFO] student_management: Teacher deleted: edwin123@gmail.com
+[2025-05-05 16:11:11,972] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-05 17:55:50,877] [INFO] student_managements_system: Teacher login successful: shanteshkamath123@gmail.com
+[2025-05-05 18:01:18,909] [INFO] student_managements_system: Teacher login successful: shanteshkamath123@gmail.com
+[2025-05-05 18:09:36,494] [WARNING] student_managements_system: Course not found or not authorized for user 7
+[2025-05-05 18:26:40,290] [INFO] student_managements_system: Admin role created.
+[2025-05-05 18:26:40,590] [INFO] student_managements_system: Admin registered successfully: niteshkamath123@gmail.com
+[2025-05-05 18:29:44,866] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-05 18:31:32,810] [INFO] student_managements_system: Teacher role created.
+[2025-05-05 18:31:33,057] [INFO] student_managements_system: Teacher registered successfully: edwin123@gmail.com
+[2025-05-05 18:33:23,123] [INFO] student_managements_system: Department created: Pyton
+[2025-05-05 18:33:52,423] [INFO] student_managements_system: Teacher login successful: edwin123@gmail.com
+[2025-05-05 18:35:04,371] [INFO] student_managements_system: Course created by teacher 2: PY101
+[2025-05-06 06:58:05,303] [INFO] student_managements_system: Teacher login successful: edwin123@gmail.com
+[2025-05-06 06:59:47,737] [INFO] student_managements_system: Course created by teacher 2: PY101
+[2025-05-06 07:01:39,692] [INFO] student_managements_system: Course created by teacher 2: PY102
+[2025-05-06 10:16:55,615] [INFO] student_managements_system: Teacher login successful: edwin123@gmail.com
+[2025-05-06 10:18:32,181] [INFO] student_managements_system: Student role created.
+[2025-05-06 10:18:32,440] [INFO] student_managements_system: Student registered successfully by teacher 2: ram123@gmail.com
+[2025-05-06 10:19:06,283] [INFO] student_managements_system: Student registered successfully by teacher 2: sham123@gmail.com
+[2025-05-06 10:19:32,663] [WARNING] student_managements_system: Student registration failed: Email already exists - sham123@gmail.com
+[2025-05-06 10:22:07,190] [INFO] student_managements_system: Course PY102 assigned to student sham123@gmail.com by teacher 2
+[2025-05-06 10:22:14,799] [INFO] student_managements_system: Course PY102 assigned to student ram123@gmail.com by teacher 2
+[2025-05-06 10:25:20,448] [INFO] student_managements_system: Student login successful: ram123@gmail.com
+[2025-05-06 10:40:04,864] [INFO] student_managements_system: Teacher login successful: edwin123@gmail.com
+[2025-05-06 10:42:56,197] [INFO] student_managements_system: Student deleted: sham123@gmail.com
+[2025-05-06 10:59:24,480] [INFO] student_managements_system: Student updated: ram123@gmail.com
+[2025-05-06 11:04:28,840] [INFO] student_managements_system: Student registered successfully by teacher 2: sham123@gmail.com
+[2025-05-06 11:14:23,193] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 11:15:09,957] [INFO] student_managements_system: Teacher registered successfully: Gourish123@gmail.com
+[2025-05-06 11:16:06,025] [INFO] student_managements_system: Teacher login successful: Gourish123@gmail.com
+[2025-05-06 11:19:18,164] [INFO] student_managements_system: Course created by teacher 6: PY103
+[2025-05-06 11:31:54,901] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 11:33:03,889] [INFO] student_managements_system: Teacher registered successfully: triveni123@gmail.com
+[2025-05-06 11:33:58,542] [INFO] student_managements_system: Department created: Java
+[2025-05-06 11:35:52,396] [WARNING] student_managements_system: Unauthorized course creation attempt by user 1
+[2025-05-06 11:36:57,173] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 11:37:43,163] [INFO] student_managements_system: Course created by teacher 7: J101
+[2025-05-06 11:39:26,176] [INFO] student_managements_system: Course J101 assigned to student ram123@gmail.com by teacher 7
+[2025-05-06 12:13:31,116] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 12:44:24,560] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 14:45:32,946] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 15:17:24,339] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 15:18:34,915] [INFO] student_managements_system: Student updated: shamsundar123@gmail.com
+[2025-05-06 15:50:54,789] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 16:51:24,993] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 17:28:38,237] [INFO] student_managements_system: Admin role created.
+[2025-05-06 17:28:38,504] [INFO] student_managements_system: Admin registered successfully: niteshkamath123@gmail.com
+[2025-05-06 17:29:08,826] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 17:29:53,417] [INFO] student_managements_system: Teacher role created.
+[2025-05-06 17:29:53,683] [INFO] student_managements_system: Teacher registered successfully: triveni123@gmail.com
+[2025-05-06 17:30:18,662] [INFO] student_managements_system: Teacher registered successfully: roopai123@gmail.com
+[2025-05-06 17:31:07,463] [INFO] student_managements_system: Department created: Java
+[2025-05-06 17:32:00,163] [WARNING] student_managements_system: Unauthorized course creation attempt by user 1
+[2025-05-06 17:32:23,288] [INFO] student_managements_system: Teacher login successful: triveni123@gmail.com
+[2025-05-06 17:32:51,638] [INFO] student_managements_system: Course created by teacher 2: J101
+[2025-05-06 17:34:44,891] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 17:35:14,761] [INFO] student_managements_system: Teacher deleted: triveni123@gmail.com
+[2025-05-06 17:42:21,161] [INFO] student_managements_system: Teacher registered successfully: chandrai123@gmail.com
+[2025-05-06 18:00:56,924] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 18:11:37,536] [INFO] student_managements_system: Teacher deleted: chandrai123@gmail.com
+[2025-05-06 18:12:37,223] [INFO] student_managements_system: Teacher registered successfully: chandrika123@gmail.com
+[2025-05-06 18:13:27,987] [INFO] student_managements_system: Admin 1 assigned Teacher 5 as head of Department 1
+[2025-05-06 18:13:47,096] [INFO] student_managements_system: Admin 1 assigned Teacher 5 as instructor for Course 1
+[2025-05-06 18:15:54,414] [WARNING] student_managements_system: Unauthorized attempt by 1 to register student.
+[2025-05-06 18:16:45,608] [INFO] student_managements_system: Teacher login successful: chandrika123@gmail.com
+[2025-05-06 18:17:24,673] [INFO] student_managements_system: Student role created.
+[2025-05-06 18:17:24,933] [INFO] student_managements_system: Student registered successfully by teacher 5: ram123@gmail.com
+[2025-05-06 18:17:35,042] [INFO] student_managements_system: Student registered successfully by teacher 5: sam123@gmail.com
+[2025-05-06 18:19:04,118] [INFO] student_managements_system: Course J101 assigned to student ram123@gmail.com by teacher 5
+[2025-05-06 18:19:18,643] [INFO] student_managements_system: Course J101 assigned to student sam123@gmail.com by teacher 5
+[2025-05-06 18:21:00,256] [INFO] student_managements_system: Course deleted by teacher 5: J101
+[2025-05-06 19:01:04,221] [INFO] student_managements_system: Admin role created.
+[2025-05-06 19:01:04,490] [INFO] student_managements_system: Admin registered successfully: niteshkamath123@gmail.com
+[2025-05-06 19:01:35,975] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 19:02:57,412] [INFO] student_managements_system: Teacher role created.
+[2025-05-06 19:02:57,662] [INFO] student_managements_system: Teacher registered successfully: roopa123@gmail.com
+[2025-05-06 19:03:13,163] [INFO] student_managements_system: Teacher registered successfully: chandrika123@gmail.com
+[2025-05-06 19:03:36,668] [INFO] student_managements_system: Department created: Java
+[2025-05-06 19:03:47,888] [INFO] student_managements_system: Department created: Python
+[2025-05-06 19:04:36,997] [INFO] student_managements_system: Teacher login successful: chandrika123@gmail.com
+[2025-05-06 19:06:14,077] [INFO] student_managements_system: Course created by teacher 3: J101
+[2025-05-06 19:07:00,223] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-06 19:07:23,176] [INFO] student_managements_system: Department deleted: Java
+[2025-05-07 10:32:17,711] [INFO] student_managements_system: Teacher login successful: chandrika123@gmail.com
+[2025-05-07 10:33:00,000] [INFO] student_managements_system: Course created by teacher 3: PY101
+[2025-05-07 10:33:19,915] [INFO] student_managements_system: Course created by teacher 3: PY102
+[2025-05-07 10:33:56,273] [INFO] student_managements_system: Student role created.
+[2025-05-07 10:33:56,536] [INFO] student_managements_system: Student registered successfully by teacher 3: shamsundar123@gmail.com
+[2025-05-07 10:34:14,703] [INFO] student_managements_system: Student registered successfully by teacher 3: ram123@gmail.com
+[2025-05-07 10:35:07,020] [INFO] student_managements_system: Course deleted by teacher 3: PY102
+[2025-05-07 10:35:51,955] [INFO] student_managements_system: Course created by teacher 3: PY102
+[2025-05-07 10:37:56,221] [INFO] student_managements_system: Course PY102 assigned to student ram123@gmail.com by teacher 3
+[2025-05-07 10:39:51,803] [INFO] student_managements_system: Course deleted by teacher 3: PY102
+[2025-05-07 10:40:59,412] [INFO] student_managements_system: Course created by teacher 3: PY102
+[2025-05-07 10:41:27,469] [INFO] student_managements_system: Course PY102 assigned to student ram123@gmail.com by teacher 3
+[2025-05-07 10:41:39,065] [INFO] student_managements_system: Course PY102 assigned to student shamsundar123@gmail.com by teacher 3
+[2025-05-07 10:43:39,099] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-07 10:46:15,667] [INFO] student_managements_system: Department created: Java
+[2025-05-07 10:49:06,788] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-07 10:52:21,556] [INFO] student_managements_system: Course created by teacher 2: J101
+[2025-05-07 10:56:06,808] [INFO] student_managements_system: Course J101 assigned to student ram123@gmail.com by teacher 2
+[2025-05-07 13:04:04,928] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-07 15:08:18,565] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-07 16:02:21,985] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-07 16:33:46,855] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-07 16:45:04,466] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-07 16:46:42,844] [INFO] student_managements_system: Teacher updated: roopa123@gmail.com
+[2025-05-07 16:47:20,622] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-07 16:49:03,571] [INFO] student_managements_system: Student updated: ram123@gmail.com
+[2025-05-07 16:56:01,386] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-07 17:08:15,476] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-07 17:20:27,621] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
+[2025-05-07 17:20:52,203] [INFO] student_managements_system: User 'Nitesh Ramesh Kamat' with role 'Admin' requested student Excel export
+[2025-05-07 17:20:52,213] [INFO] student_managements_system: Found 2 student(s) in the database
+[2025-05-07 17:20:52,264] [INFO] student_managements_system: Excel file saved successfully'student_report.xlsx'
+[2025-05-07 17:46:08,323] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-07 17:46:33,704] [INFO] student_managements_system: User 'Roopa Shetty' with role 'Teacher' requested certificate for student_id=5, course_id=6
+[2025-05-07 17:46:33,715] [INFO] student_managements_system: Certificate generated successfully for student 'Ram Krishna Prabhu'
+[2025-05-07 17:46:33,741] [INFO] student_managements_system: PDF certificate successfully generated at 'certificates/certificate_5_6.pdf'
+[2025-05-07 18:11:34,832] [INFO] student_managements_system: User 'Roopa Shetty' with role 'Teacher' requested certificate for student_id=5, course_id=6
+[2025-05-07 18:11:34,843] [INFO] student_managements_system: Certificate generated successfully for student 'Ram Krishna Prabhu'
+[2025-05-07 18:11:34,863] [INFO] student_managements_system: PDF certificate successfully generated at 'certificates/certificate_5_6.pdf'
+[2025-05-07 19:04:06,047] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-12 13:04:23,696] [INFO] student_managements_system: Teacher login successful: roopa123@gmail.com
+[2025-05-13 07:25:35,408] [INFO] student_managements_system: Admin login successful: niteshkamath123@gmail.com
